@@ -1,0 +1,6 @@
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\MultiThreadServerBotTelegram\obj\Debug\MultiThreadServerBotTelegram.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\MultiThreadServerBotTelegram\obj\Debug\MultiThreadServerBotTelegram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\MultiThreadServerBotTelegram\obj\Debug\MultiThreadServerBotTelegram.MonitoringForm.resources
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\MultiThreadServerBotTelegram\obj\Debug\MultiThreadServerBotTelegram.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\MultiThreadServerBotTelegram\obj\Debug\MultiThreadServerBotTelegram.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\MultiThreadServerBotTelegram\obj\Debug\MultiThreadServerBotTelegram.csproj.CoreCompileInputs.cache
